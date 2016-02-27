@@ -1,0 +1,20 @@
+﻿main h2 {
+	padding-bottom: 8px;
+	border-bottom: 1px solid #bbbbbb;
+}
+
+footer table {
+	margin: auto;
+}
+
+footer table td {
+		padding: 5px;
+}
+
+footer a {
+	color: #4b71eb;
+}
+
+#teraflik-footer-logo {
+	padding-right: 10px;
+}
