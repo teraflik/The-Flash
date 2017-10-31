@@ -1,14 +1,17 @@
 ﻿main h2 {
 	padding-bottom: 8px;
+	 
 	border-bottom: 1px solid #bbbbbb;
 }
 
 footer table {
 	margin: auto;
+	
 }
 
 footer table td {
 		padding: 5px;
+	
 }
 
 footer a {
@@ -17,4 +20,5 @@ footer a {
 
 #teraflik-footer-logo {
 	padding-right: 10px;
+	
 }
